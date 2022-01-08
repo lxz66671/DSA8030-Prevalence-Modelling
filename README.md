@@ -3,7 +3,7 @@ This is the source code of SHU LIN's paper for DSA8030 project report in Queen's
 
 The causal model was created based on accessing relevant information obtained by frontline medical staff and medical institution managers. 
 
-All data sources in this report come from the Health and Social Care Board (HSC)
+All data sources in this report come from the Health and Social Care Board (NI)
 
 ## Basic Information
 
